@@ -6,6 +6,7 @@ Have you ever wondered whether the old saying “bad publicity is good publicity
 Have you ever thought about how public coverage of a movie can relate to the success of said movie?
 Let’s begin by asking ourselves; how does the public coverage of movies in media relate to the success of the movies concerned?
 
+test-felix
 
 Notes - check :
 Painting the complete picture
